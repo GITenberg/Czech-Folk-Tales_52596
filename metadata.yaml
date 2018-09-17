@@ -1,5 +1,5 @@
 _repo: Czech-Folk-Tales_52596
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Baudiš, Josef
@@ -7,7 +7,12 @@ contributor:
     birthdate: 1883
     gutenberg_agent_id: '9486'
     url: http://www.gutenberg.org/2009/agents/9486
+covers:
+- cover_type: archival
+  image_path: 52596-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52596#Czech-Folk-Tales
 gutenberg_issued: '2016-07-17'
 gutenberg_type: Text
 identifiers:
